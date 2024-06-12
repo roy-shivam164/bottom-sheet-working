@@ -1,0 +1,7 @@
+p {
+  font-family: Lato;
+}
+.no-scroll {
+  /* Disable pointer events to prevent interactions */
+  pointer-events: none;
+}
